@@ -9,7 +9,7 @@ The following tables need to be present in the MySQL database `passportsystem`:
 <p align="center"><img src="http://i65.tinypic.com/2eelnnn.png"/></p>
 
 ## Using the software
-There are two kinds of users - ones who apply for the passport and the admin who issues the passports. New users can be added manually using CRUD queries from terminal (functionality not provided in the application).
+There are two kinds of users - ones who apply for the passport and the admin who issues the passports. New admins can only be added manually using CRUD queries from terminal (functionality not provided in the application).
 
 This is the login screen.
 <p align="center"><img src ="http://i67.tinypic.com/14w80wi.png"/>&nbsp&nbsp&nbsp&nbsp<img src="http://i66.tinypic.com/34pcors.png"/></p>
